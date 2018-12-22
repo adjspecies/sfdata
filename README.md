@@ -1,0 +1,2 @@
+# sfdata
+Data from SoFurry
